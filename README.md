@@ -4,7 +4,7 @@
 This project was created to keep the images that are in the [AWS ECR](https://aws.amazon.com/ecr/?nc1=h_ls) (Amazon Elastic Container Registry) updated with the official images.<br>
 
 ## **MOTIVATIONS**
-We were working on a way to centralize the images in our ECR repository, to implement a security lock to prevent external image downloads. We ran into a problem, we would have to manually update these images in our repository on a regular basis or they would get out of date. Thus came the idea of the UPDATE-BASE-IMAGE project.<br>
+We were working on a way to centralize the images in our ECR repository, to implement a security lock to prevent external image downloads. We ran into a problem, we would have to manually update these images in our repository on a regular basis or they would get out of date. Thus came the idea of the UPDATE-LOCAL-IMAGE project.<br>
 
 ## **FUNCTIONALITIES**
 * Connections:
