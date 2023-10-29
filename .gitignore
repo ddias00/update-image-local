@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+repositories.json
+tags.json
 # C extensions
 *.so
 
